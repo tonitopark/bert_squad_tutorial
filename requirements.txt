@@ -1,0 +1,6 @@
+torch==1.0.1
+tqdm
+jupyter
+boto3
+requests
+pytorch-pretrained-bert
